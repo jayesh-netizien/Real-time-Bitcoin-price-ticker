@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #0f172a; /* Dark Navy */
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
+
+.ticker-card {
+  background: #1e293b;
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+  text-align: center;
+  border: 1px solid #334155;
+}
+
+.price-display {
+  font-size: 3.5rem;
+  font-weight: bold;
+  color: #22c55e; /* Green */
+  margin: 1rem 0;
+}
+
+.status.live { color: #22c55e; font-weight: bold; }
+.status.connecting { color: #f59e0b; }
