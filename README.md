@@ -44,4 +44,4 @@ From a data perspective, this project implements:
 ## 🚀 How to Run
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/price-ticker.git](https://github.com/your-username/price-ticker.git)
+   git clone [(https://github.com/jayesh-netizien/Real-time-Bitcoin-price-ticker.git)]
