@@ -45,7 +45,6 @@ From a data perspective, this project implements:
 1. **Clone the repository:**
    ```bash
    git clone [(https://github.com/jayesh-netizien/Real-time-Bitcoin-price-ticker.git)]
-
-2. **cd price-ticker**
-3. **npm install**
-4. **npm start**
+   2. **cd price-ticker**
+   3. **npm install**
+   4. **npm start**
