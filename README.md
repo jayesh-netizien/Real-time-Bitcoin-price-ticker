@@ -45,6 +45,8 @@ From a data perspective, this project implements:
 1. **Clone the repository:**
    ```bash
    git clone [(https://github.com/jayesh-netizien/Real-time-Bitcoin-price-ticker.git)]
+2. **After you have completed above steps. You'll need to install the dependencies first before you start the dev server.**
+   ```bash
    cd price-ticker
    npm install
    npm start
